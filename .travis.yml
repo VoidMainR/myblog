@@ -14,7 +14,7 @@ deploy:
   github-token: $GH_TOKEN
   keep-history: true
   on:
-    repo: VoidMainR/VoidMainR.github.io
+    repo: VoidMainR/repo-VoidMainR.github.io
     target_branch: master
     branch: master
   local-dir: public
