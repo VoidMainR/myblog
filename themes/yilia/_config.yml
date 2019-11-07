@@ -65,7 +65,7 @@ top: true
 # Miscellaneous
 baidu_analytics: ""
 google_analytics: ""
-favicon: http://jiemogancuimian.com/pictures/avatar/icon.jpg
+favicon: http://jiemogancuimian.com/pictures/icon/favicon.ico
 
 #你的头像url
 avatar: "http://jiemogancuimian.com/pictures/avatar/alitouxiang.jpg"
